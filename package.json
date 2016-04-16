@@ -1,0 +1,26 @@
+{
+  "name": "generator-mff",
+  "version": "0.1.0",
+  "description": "custom yeoman-generator for mff-comman-init",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "rimraf": "^2.5.2",
+    "yeoman-generator": "^0.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/candyHuang/generator-first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/candyHuang/generator-first/issues"
+  },
+  "homepage": "https://github.com/candyHuang/generator-first#readme"
+}
+
